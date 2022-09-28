@@ -37,3 +37,5 @@ public class Main {
         return new String(Files.readAllBytes(Paths.get(file)));
     }
 }
+
+// Zadanie zrobione przez: Ilias Abdeljalil
